@@ -36,5 +36,5 @@
 
 
 ## 📫 Контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@kraffc)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kraffc)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jard.mozq@gmail.com)
