@@ -10,7 +10,6 @@
 
 </div>
 
-<img src="https://media.giphy.com/virtual-backgrounds/previews/grid.gif">
 </div>
 
 ## 🛠️ Мой стек технологий
