@@ -4,8 +4,7 @@
 - 📫 You can contact me by email jard.mozq@gmail.com or in TG @kraffc
 - ⚡ Fun fact: I used to create an indie game 
 
-[![codewars](https://www.codewars.com/users/KravtsovSO64/badges/large)](https://www.codewars.com/users/KravtsovSO64)
-
-markdown
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
+
+[![codewars](https://www.codewars.com/users/KravtsovSO64/badges/large)](https://www.codewars.com/users/KravtsovSO64)
