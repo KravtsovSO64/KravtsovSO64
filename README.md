@@ -17,6 +17,7 @@
 
 ## 🛠️ Мой стек технологий
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?logo=Java&style=flat)
 ![Android SDK](https://img.shields.io/badge/-Android_SDK-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-2496ED?style=flat-square&logo=Architecture&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/-Coroutines-388E3C?style=flat-square&logo=Kotlin&logoColor=white)
@@ -26,6 +27,8 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 ![Room](https://img.shields.io/badge/-Room-4479A1?style=flat-square&logo=Room&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ## 📫 Контакты
