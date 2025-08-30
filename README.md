@@ -26,10 +26,9 @@
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/-Coroutines-388E3C?style=flat-square&logo=kotlin&logoColor=white)
 
-<!-- Архитектура и асинхронность -->
+<!-- Архитектура -->
 ![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-2496ED?style=flat-square&logo=architecture&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-3178C6?style=flat-square&logo=object-oriented-programming&logoColor=white)
-!(https://img.shields.io/badge/-Multithreading-E91E63?style=flat-square&logo=none&label=Multithreading&color=orange)
 
 <!-- Базы данных -->
 ![Room](https://img.shields.io/badge/-Room-4479A1?style=flat-square&logo=room&logoColor=white)
