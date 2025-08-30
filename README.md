@@ -16,20 +16,32 @@
 </div>
 
 ## 🛠️ Мой стек технологий
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?logo=Java&style=flat)
-![Android SDK](https://img.shields.io/badge/-Android_SDK-3DDC84?style=flat-square&logo=Android&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-2496ED?style=flat-square&logo=Architecture&logoColor=white)
-![Coroutines](https://img.shields.io/badge/-Coroutines-388E3C?style=flat-square&logo=Kotlin&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-F05032?style=flat-square&logo=XML&logoColor=white)
-![Custom View](https://img.shields.io/badge/-Custom_View-8A2BE2?style=flat-square&logo=Android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=Jetpack-Compose&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
-![Room](https://img.shields.io/badge/-Room-4479A1?style=flat-square&logo=Room&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- Языки программирования -->
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
+<!-- Android разработка -->
+![Android SDK](https://img.shields.io/badge/-Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-F05032?style=flat-square&logo=xml&logoColor=white)
+
+<!-- Архитектура и асинхронность -->
+![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-2496ED?style=flat-square&logo=architecture&logoColor=white)
+![OOP](https://img.shields.io/badge/-OOP-3178C6?style=flat-square&logo=object-oriented-programming&logoColor=white)
+![Multithreading](https://img.shields.io/badge/-Multithreading-E91E63?style=flat-square&logo=none&label=Multithreading&color=orange)
+![Coroutines](https://img.shields.io/badge/-Coroutines-388E3C?style=flat-square&logo=kotlin&logoColor=white)
+
+<!-- Базы данных -->
+![Room](https://img.shields.io/badge/-Room-4479A1?style=flat-square&logo=room&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+<!-- Backend и инструменты -->
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+<!-- Сервисы и интеграции -->
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kraffc)
