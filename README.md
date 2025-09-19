@@ -1,4 +1,4 @@
-# I am Android Developer 👋
+# Hi, I am Android Developer 👋
 
 <div align="left">
 
@@ -24,6 +24,17 @@
 **Tools & CI** | Android Studio, Git, GitHub, Postman
 **UI/UX & Collaboration** | Material Design, XML, Figma, Pixso
 **DI** | Koin, Dagger 2
+
+### 🚀 Мои проекты
+
+Здесь собраны ключевые проекты, над которыми я работал или работаю.
+
+| Проект | Описание | Технологии | Статус |
+| :--- | :--- | :--- | :--- |
+| [👷 Comandor]() | Система управления строительными проектами | Kotlin, JavaScript, Node.js, MongoDB | Развивается |
+| [💼  WorkingOnCouch](https://github.com/KravtsovSO64/WorkingOnCouchHH) | Командный проект для поиска работы на диване | Coroutines, Room, MVVM, OkHttpp | Завершён |
+| [💃 PlaylistMaker](https://github.com/KravtsovSO64/PlaylistMaker) | Приложение для поиска и прослушивания музыки |  Jetpack Compose, Service, MediaPlayer  | Завершён |
+| [📽️ MovieSearch](https://github.com/KravtsovSO64/MovieSearch) | Приложение для поиска киноиндустрии |  WebView, Navigation, Retrofit2  | Завершён |
 
 ## 📫 Contacts
 
