@@ -25,7 +25,8 @@
 **UI/UX & Collaboration** | Material Design, XML, Figma, Pixso
 **DI** | Koin, Dagger 2
 
+## 📫 Contacts
 
-## 📫 Контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kraffc)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kraffc@yandex.ru)
+- **Email:** [kraffc@yandex.ru](mailto:kraffc@yandex.ru)
+- **Telegram:** [@kraffc](https://t.me/kraffc)
+
