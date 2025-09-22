@@ -15,14 +15,14 @@
 --- | ---
 **Programming Languages** | Kotlin, Java, JavaScript
 **Platform & Backend** | Android, Node.js
-**Frameworks & SDKs** | Android SDK, Jetpack Compose, Retrofit2
+**Frameworks & SDKs** | Android SDK, Jetpack Compose, Navigation library
 **Architecture** | MVVM, Clean Architecture
 **Principles** | SOLID, DRY, KISS
 **Async** | Thread, Coroutines, RxJava
 **Data Storage** | Room, SharedPreferences, MongoDB, Firebase Firestore
-**Networking** | REST API, WebSocket, OkHttp
+**Networking** | REST API, WebSocket, OkHttp, Retrofit2
 **Tools & CI** | Android Studio, Git, GitHub, Postman
-**UI/UX & Collaboration** | Material Design, XML, Figma, Pixso
+**UI/UX & Collaboration** | Material Design, XML, Glide, Figma, Pixso
 **DI** | Koin, Dagger 2
 
 ### 🚀 My projects
